@@ -1,0 +1,50 @@
+header{
+    background-color: var(--background-header);
+    .header__logo{
+        max-width: 80px;
+        width: 100%;
+        max-height: 80px;
+        height: 100%;
+        padding-bottom: 2px;
+    }
+    .logo{
+        max-width: 80px;
+        width: 100%;
+        max-height: 80px;
+        height: 100%;
+        padding-bottom: 2px;
+        display: none;
+    }
+    .icono__carrito{
+        margin-right: 10px;
+        font-size: 25px;
+        color: #fc0da0;
+    }
+    button.navbar-toggler.collapsed{
+        border: none;
+        box-shadow: var(--sombra-global);
+    }
+}
+div#offcanvasNavbar-expand-md.offcanvas.offcanvas-start.show{
+    background-color: var(--background-header-responsive);
+    div.offcanvas-header{
+        color: white;
+    }
+}
+/* MediasQuery */
+/*Cuando entra en modo Celular*/
+@media screen and (max-width: 767px){
+    /* Nav */
+    header{
+        .header__logo{
+            display: none;
+        }
+        .icono__carrito{
+            display: none;
+        }
+        .logo{
+            display: block;
+        }
+    }
+} 
+/*Fin MediasQuery */
