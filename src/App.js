@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <NavBar/>
       <Routes>
-        <Route path='/' element={<Inicio />} />
+        <Route path='/EpikusCakeReact/' element={<Inicio />} />
         <Route path='/Inicio' element={<Inicio />} />
         <Route path='/Nosotros' element={<Nosotros />} />
         <Route path='/Pasteleria' element={<Pasteleria />} />
