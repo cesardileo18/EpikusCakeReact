@@ -1,6 +1,6 @@
 import './App.css';
 import NavBar from './Components/Navbar/NavBar';
-import { Routes, Route, BrowserRouter } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import Inicio from './Components/Inicio/Inicio';
 import Nosotros from './Components/Nosotros/Nosotros';
 import Pasteleria from './Components/Pasteleria/Pasteleria';
@@ -11,16 +11,14 @@ function App() {
   return (
     <div className="App">
       <NavBar/>
-      <BrowserRouter basename='/EpikusCakeReact'>
-        <Routes>
-          <Route path='/EpikusCakeReact' element={<Inicio />} />
-          <Route path='/EpikusCakeReact/Inicio' element={<Inicio />} />
-          <Route path='/EpikusCakeReact/Nosotros' element={<Nosotros />} />
-          <Route path='/EpikusCakeReact/Pasteleria' element={<Pasteleria />} />
-          <Route path='/EpikusCakeReact/Tortas' element={<Tortas />} />
-          <Route path='/EpikusCakeReact/Contacto' element={<Contacto />} />
-        </Routes>
-      </BrowserRouter>
+      <Routes>
+        <Route path='/' element={<Inicio />} />
+        <Route path='/Inicio' element={<Inicio />} />
+        <Route path='/Nosotros' element={<Nosotros />} />
+        <Route path='/Pasteleria' element={<Pasteleria />} />
+        <Route path='/Tortas' element={<Tortas />} />
+        <Route path='/Contacto' element={<Contacto />} />
+      </Routes>
     </div>
   );
 }

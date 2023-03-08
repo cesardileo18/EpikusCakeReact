@@ -26,18 +26,18 @@ const NavBar = () => {
                         </Offcanvas.Header>
                         <Offcanvas.Body>
                             <Nav className="justify-content-center flex-grow-1 pe-3 gap-md-5">
-                                <Nav.Link href="/EpikusCakeReact/Inicio">Inicio</Nav.Link>
+                                <Nav.Link href="/Inicio">Inicio</Nav.Link>
                                 <NavDropdown
                                     title="Productos"
                                     id={`offcanvasNavbarDropdown-expand-md`}
                                 >
-                                    <NavDropdown.Item href="/EpikusCakeReact/Pasteleria">Pastelería</NavDropdown.Item>
-                                    <NavDropdown.Item href="/EpikusCakeReact/Tortas">
+                                    <NavDropdown.Item href="/Pasteleria">Pastelería</NavDropdown.Item>
+                                    <NavDropdown.Item href="/Tortas">
                                     Tortas
                                     </NavDropdown.Item>
                                 </NavDropdown>
-                                <Nav.Link href="/EpikusCakeReact/Nosotros">Nosotros</Nav.Link>
-                                <Nav.Link href="/EpikusCakeReact/Contacto">Contacto</Nav.Link>
+                                <Nav.Link href="/Nosotros">Nosotros</Nav.Link>
+                                <Nav.Link href="/Contacto">Contacto</Nav.Link>
                             </Nav>
                         </Offcanvas.Body>
                     </Navbar.Offcanvas>
