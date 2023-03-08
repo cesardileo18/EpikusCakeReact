@@ -12,7 +12,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
         <App />
     </BrowserRouter> */
 root.render(
-    <HashRouter basename='/EpikusCakeReact'>
+    <HashRouter basename='/'>
         <App />
     </HashRouter>
 );
