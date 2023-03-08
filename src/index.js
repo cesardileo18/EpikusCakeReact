@@ -4,17 +4,19 @@ import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import { BrowserRouter } from 'react-router-dom'
-import { HashRouter } from 'react-router-dom';
+// import { HashRouter } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+root.render(
+/*     <HashRouter basename='/'>
+        <App />
+    </HashRouter> */
 /*     <BrowserRouter basename='/EpikusCakeReact'>
         <App />
     </BrowserRouter> */
-root.render(
-    <HashRouter basename='/'>
         <App />
-    </HashRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
