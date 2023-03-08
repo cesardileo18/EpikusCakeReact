@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/EpikusCakeReact/static/css/main.fd787143.css",
-    "main.js": "/EpikusCakeReact/static/js/main.bdf81f18.js",
+    "main.js": "/EpikusCakeReact/static/js/main.cc40fbe5.js",
     "static/js/787.3804f1c7.chunk.js": "/EpikusCakeReact/static/js/787.3804f1c7.chunk.js",
     "static/media/epikusFondoBlanco100X100.png": "/EpikusCakeReact/static/media/epikusFondoBlanco100X100.3861d5da7f17651f7d4f.png",
     "index.html": "/EpikusCakeReact/index.html",
     "main.fd787143.css.map": "/EpikusCakeReact/static/css/main.fd787143.css.map",
-    "main.bdf81f18.js.map": "/EpikusCakeReact/static/js/main.bdf81f18.js.map",
+    "main.cc40fbe5.js.map": "/EpikusCakeReact/static/js/main.cc40fbe5.js.map",
     "787.3804f1c7.chunk.js.map": "/EpikusCakeReact/static/js/787.3804f1c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd787143.css",
-    "static/js/main.bdf81f18.js"
+    "static/js/main.cc40fbe5.js"
   ]
 }
