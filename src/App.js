@@ -14,11 +14,11 @@ function App() {
       <BrowserRouter basename='/EpikusCakeReact'>
         <Routes>
           <Route path='/EpikusCakeReact' element={<Inicio />} />
-          <Route path='/Inicio' element={<Inicio />} />
-          <Route path='/Nosotros' element={<Nosotros />} />
-          <Route path='/Pasteleria' element={<Pasteleria />} />
-          <Route path='/Tortas' element={<Tortas />} />
-          <Route path='/Contacto' element={<Contacto />} />
+          <Route path='/EpikusCakeReact/Inicio' element={<Inicio />} />
+          <Route path='/EpikusCakeReact/Nosotros' element={<Nosotros />} />
+          <Route path='/EpikusCakeReact/Pasteleria' element={<Pasteleria />} />
+          <Route path='/EpikusCakeReact/Tortas' element={<Tortas />} />
+          <Route path='/EpikusCakeReact/Contacto' element={<Contacto />} />
         </Routes>
       </BrowserRouter>
     </div>
