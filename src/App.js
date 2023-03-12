@@ -8,6 +8,7 @@ import Tortas from './Components/Tortas/Tortas';
 import Contacto from './Components/Contacto/Contacto';
 
 function App() {
+  console.log('ahora')
   return (
     <div className="App">
       <NavBar/>
