@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EpikusCakeReact/static/css/main.4bf90676.css",
-    "main.js": "/EpikusCakeReact/static/js/main.c6f1ac70.js",
+    "main.js": "/EpikusCakeReact/static/js/main.f14796c2.js",
     "static/js/787.3804f1c7.chunk.js": "/EpikusCakeReact/static/js/787.3804f1c7.chunk.js",
     "static/media/sweets-4367937_1920.png": "/EpikusCakeReact/static/media/sweets-4367937_1920.451d46498fe578bf95e4.png",
     "static/media/patisserie-2658077_1920.png": "/EpikusCakeReact/static/media/patisserie-2658077_1920.5be0240ab6c1d06d0d16.png",
@@ -14,11 +14,11 @@
     "static/media/epikusFondoBlanco100X100.png": "/EpikusCakeReact/static/media/epikusFondoBlanco100X100.3861d5da7f17651f7d4f.png",
     "index.html": "/EpikusCakeReact/index.html",
     "main.4bf90676.css.map": "/EpikusCakeReact/static/css/main.4bf90676.css.map",
-    "main.c6f1ac70.js.map": "/EpikusCakeReact/static/js/main.c6f1ac70.js.map",
+    "main.f14796c2.js.map": "/EpikusCakeReact/static/js/main.f14796c2.js.map",
     "787.3804f1c7.chunk.js.map": "/EpikusCakeReact/static/js/787.3804f1c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bf90676.css",
-    "static/js/main.c6f1ac70.js"
+    "static/js/main.f14796c2.js"
   ]
 }
