@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EpikusCakeReact/static/css/main.50a17b55.css",
-    "main.js": "/EpikusCakeReact/static/js/main.a95d8084.js",
+    "main.css": "/EpikusCakeReact/static/css/main.1b6b634f.css",
+    "main.js": "/EpikusCakeReact/static/js/main.d48a9ccf.js",
     "static/js/787.3804f1c7.chunk.js": "/EpikusCakeReact/static/js/787.3804f1c7.chunk.js",
     "static/media/sweets-4367937_1920.png": "/EpikusCakeReact/static/media/sweets-4367937_1920.451d46498fe578bf95e4.png",
     "static/media/patisserie-2658077_1920.png": "/EpikusCakeReact/static/media/patisserie-2658077_1920.5be0240ab6c1d06d0d16.png",
@@ -13,12 +13,12 @@
     "static/media/macarons.jpg": "/EpikusCakeReact/static/media/macarons.8d12e33b71ee7325d63c.jpg",
     "static/media/epikusFondoBlanco100X100.png": "/EpikusCakeReact/static/media/epikusFondoBlanco100X100.3861d5da7f17651f7d4f.png",
     "index.html": "/EpikusCakeReact/index.html",
-    "main.50a17b55.css.map": "/EpikusCakeReact/static/css/main.50a17b55.css.map",
-    "main.a95d8084.js.map": "/EpikusCakeReact/static/js/main.a95d8084.js.map",
+    "main.1b6b634f.css.map": "/EpikusCakeReact/static/css/main.1b6b634f.css.map",
+    "main.d48a9ccf.js.map": "/EpikusCakeReact/static/js/main.d48a9ccf.js.map",
     "787.3804f1c7.chunk.js.map": "/EpikusCakeReact/static/js/787.3804f1c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a17b55.css",
-    "static/js/main.a95d8084.js"
+    "static/css/main.1b6b634f.css",
+    "static/js/main.d48a9ccf.js"
   ]
 }
