@@ -1,7 +1,9 @@
+import ItemListContainer from '../ItemListContainer/ItemListContainer'
+
 const Inicio = () => {
     return ( 
         <div>
-            <h1>Inicio</h1>
+            <ItemListContainer/>
         </div>
     );
 }

@@ -1,0 +1,24 @@
+/* Carrusel */
+main{
+    .slide{
+        width: 100%;
+        height: 450px;
+        background-position: center;
+        background-size: cover;
+    }
+    .imgCarrusel1{
+        background-image: url("../../Img/pasteleria/cake-4910417_1280.png");
+    }
+    .imgCarrusel2{
+        background-image: url("../../Img/pasteleria/raspberry-pie-1987673_1920.png");
+
+    }
+    .imgCarrusel3{
+        background-image: url("../../Img/pasteleria/blueberries-3946230_1280.png");
+
+    }
+    .imgCarrusel4{
+        background-image: url("../../Img/pasteleria/macarons.jpg");
+    }
+}
+/*Fin Carrusel */
